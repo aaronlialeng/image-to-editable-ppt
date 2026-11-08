@@ -1,0 +1,6 @@
+interface:
+  display_name: "图片转可编辑PPT"
+  short_description: "保留原图构图与文案，重建可编辑幻灯片并完成渲染、文字和排版验收"
+  default_prompt: "使用 $image-to-editable-ppt 将图片重建为可编辑 PPT，保留原图构图和文案，完成 PowerPoint 渲染与验收后交付。"
+policy:
+  allow_implicit_invocation: true
